@@ -1,0 +1,15 @@
+body {
+    color: pink;
+    background-color: pink (255, 255, 255);
+    background-color: pink (255, 255, 255);
+}
+.tag {
+    font-family: "Monaco", monospace; 
+    font-size: 1rem;
+   }  
+.jumbotron {
+    background-image: url("../images/marble.png");
+    background-size: 100% 100%;
+    text-align: center;
+    background-color: white 
+  }
