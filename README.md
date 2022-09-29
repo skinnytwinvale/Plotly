@@ -5,7 +5,7 @@
 
 1. ***Deliverable 1***: Create a Horizontal Bar Chart
 2. ***Deliverable 2***: Create a Bubble Chart 
-3. ***Deliverable 3***: Create a Gauge Chart  
+3. ***Deliverable 3***: Create a Gauge Chart
 4. ***Deliverable 4***: Customize the Dashboard
 5. ***Deliverable 5***: A written report on the Belly Button Biodiversity Dashboard analysis [`README.md`](https://github.com/emmanuelmartinezs/Ploty/). 
 
