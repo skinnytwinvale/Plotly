@@ -166,11 +166,6 @@ Your bar chart should look like the following image:
 **Code and Image**
 
 
-````java
-// COLUMBIA ENGINEERING 
-// By Emmanuel Martinez
-// Module 12
-
 
 // DELIVERABLE 1: Create a Horizontal Bar Chart
 
