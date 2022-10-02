@@ -340,9 +340,7 @@ function buildCharts(sample) {
 
 
 ````java
-// COLUMBIA ENGINEERING 
-// By Emmanuel Martinez
-// Module 12
+
 
 
 // DELIVERABLE 1: Create a Horizontal Bar Chart
